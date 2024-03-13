@@ -1,5 +1,5 @@
 //ler numero A
-let A = 14;
+let A = 21;
 //ler numero B
 let B = 7;
 //dividir A por B
