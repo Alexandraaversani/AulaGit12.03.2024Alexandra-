@@ -1,7 +1,7 @@
 //ler numero A
 let A = 14;
 //ler numero B
-let B = 2;
+let B = 7;
 //dividir A por B
 let divisão = A / B;
 
